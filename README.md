@@ -175,18 +175,19 @@ Placify
 Add screenshots after uploading them to GitHub.
 
 ```md
-## Login Page
-![Login](screenshots/login.png)
+## 📸 Screenshots
 
-## Student Dashboard
-![Student Dashboard](screenshots/student-dashboard.png)
+### Login Page
+<img src="screenshots/login.jpeg" width="800"/>
 
-## Recruiter Dashboard
-![Recruiter Dashboard](screenshots/recruiter-dashboard.png)
+### Student Dashboard
+<img src="screenshots/student-dashboard.jpeg" width="800"/>
 
-## Admin Dashboard
-![Admin Dashboard](screenshots/admin-dashboard.png)
-```
+### Recruiter Dashboard
+<img src="screenshots/recruiter-dashboard.jpeg" width="800"/>
+
+### Admin Dashboard
+<img src="screenshots/admin-dashboard.jpeg" width="800"/>
 
 ---
 
