@@ -174,8 +174,7 @@ Placify
 
 Add screenshots after uploading them to GitHub.
 
-```md
-## 📸 Screenshots
+# 📸 Screenshots
 
 ### Login Page
 <img src="screenshots/login.jpeg" width="800"/>
@@ -188,8 +187,6 @@ Add screenshots after uploading them to GitHub.
 
 ### Admin Dashboard
 <img src="screenshots/admin-dashboard.jpeg" width="800"/>
-
----
 
 # 🗄 Database Design
 
