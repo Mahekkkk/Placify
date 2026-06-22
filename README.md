@@ -168,12 +168,6 @@ Placify
 └── Placify.postman_collection.json
 ```
 
----
-
-# 📸 Screenshots
-
-Add screenshots after uploading them to GitHub.
-
 # 📸 Screenshots
 
 ### Login Page
